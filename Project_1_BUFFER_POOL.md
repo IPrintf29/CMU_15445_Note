@@ -53,4 +53,4 @@ LRU最近最久未使用算法实现可以参考[LeetCode 146. LRU缓存]([146. 
 ---
 ## Score
 
-![[project 1 score.png]]
+![project 1 score.png](project_1_score.png)
