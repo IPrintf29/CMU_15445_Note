@@ -64,5 +64,5 @@
 
 ---
 ## Score
-终于全部完成了！
-![[project 4 score.png]]
+终于全部完成了！  
+![project 4 score.png](./project_4_score.png)
