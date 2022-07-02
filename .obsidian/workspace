@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "0137edcaeacbaed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9899bee0b22e20f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project 4 CONCURRENCY CONTROL.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caf98caf1b0c4795",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11b54982941b33d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b833c816b14011",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9692c78a9deafdd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7883b0dc7bffaed8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4de677fca201446d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c8ef3428e01a9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project 4 CONCURRENCY CONTROL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9899bee0b22e20f",
+  "lastOpenFiles": [
+    "Project 4 CONCURRENCY CONTROL.md",
+    "前言.md",
+    "Project 1 BUFFER POOL.md",
+    "Project 2 EXTENDIBLE HASH INDEX.md",
+    "project 4 score.png",
+    "Project 3 QUERY EXECUTION.md",
+    "project.md",
+    "[146..md"
+  ]
+}
