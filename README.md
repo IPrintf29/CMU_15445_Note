@@ -18,7 +18,7 @@ CMU 15-445 (2021) 实验课分为以下四个部分：
 ## 目录
 | Index     |  Link                  |         Content                 |
 |-----------|:----------------------:|------------------------------------:|
-| Project 1 | [[Project 1 BUFFER POOL]]  |      缓存池，LRU      |
-| Project 2 | [[Project 2 EXTENDIBLE HASH INDEX]]  | 可扩展哈希 |
-| Project 3 | [[Project 3 QUERY EXECUTION]]         | 执行器，嵌套循环连接，哈希连接       |
-| Project 4 | [[Project 4 CONCURRENCY CONTROL]]   | 并发控制，2PL，隔离级别   |
+| Project 1 | [Project 1 BUFFER POOL](git@github.com:IPrintf29/CMU_15445_Note.git/Project_1_BUFFER_POOL.md)  |      缓存池，LRU      |
+| Project 2 | [Project 2 EXTENDIBLE HASH INDEX](git@github.com:IPrintf29/CMU_15445_Note.git/Project_2_EXTENDIBLE_HASH_INDEX.md)  | 可扩展哈希 |
+| Project 3 | [Project 3 QUERY EXECUTION](git@github.com:IPrintf29/CMU_15445_Note.git/Project_3_QUERY_EXECUTION.md)         | 执行器，嵌套循环连接，哈希连接       |
+| Project 4 | [Project 4 CONCURRENCY CONTROL](git@github.com:IPrintf29/CMU_15445_Note.git/Project_4_CONCURRENCY_CONTROL.md)   | 并发控制，2PL，隔离级别   |
