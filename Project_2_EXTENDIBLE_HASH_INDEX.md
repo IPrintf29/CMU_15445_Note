@@ -83,4 +83,4 @@
 
 ---
 ## Score
-![[project 2 score.png]]
+![project 2 score.png](./project_2_score.png)
